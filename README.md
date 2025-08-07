@@ -1,4 +1,10 @@
-_Use Case on SQL and Test_
+# Project Documentation:SQL
+### Introduction:
+- This project is about understanding the basics and use-cases of SQL in the real business scenarios. Concepts like DDL, DML, DQL are understood by this project.
+- Also a hands-on experience on automation and testing is done through it.
+
+### Project Goal and Objective:
+There are 10 tasks which are to be completed to have holistic view about the understanding of SQL and learn business cases where it is used.
 
 **Req 1:**
 Generate a random data input files
@@ -35,3 +41,10 @@ Automate the test cases (if possible) using any method but should be automated..
 
 **Req 10:**
 Document everything in word with all screen grabs as proper Project Document
+
+### Requirements:
+- PostgrsSQL (v17)
+- PgAdmin
+- Terminal
+- Github account
+

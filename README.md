@@ -48,3 +48,4 @@ Document everything in word with all screen grabs as proper Project Document
 - Terminal
 - Github account
 
+## A proper documentation of the assignment has been provided as a **.doc** file in the repository
